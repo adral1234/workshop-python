@@ -8,3 +8,10 @@ dimana python di bagi menjadi beberapa bagian yaitu:
     -canopy
     -activastalepython
     
+Tugas tutorial dan isntalasi di windows:
+masuk ke url https://www.python.org/downloads/ dan pilih versi terbaru disana akan ada pilihan versi yaitu versi 3 atau versi 2,
+selanjutnya pilih versi 3 dimana akan di arahkan ke versi detail python yang di pilih, jika menggunak windows 32bit maka pilih file windows x86
+namun jika menggunakan windows 64bit maka pilih file windows x86-64.
+jika selesai mendownload maka jalankan file isntalasi.
+Setelah instalasi selesai, anda akan diarahkan untuk melakukan Disable path length limit. Apakah itu? Path length limit adalah batas dari variable MAX_PATH yang ada pada sistem operasi windows yang hanya dapat menampung 260 karakter. Saya merekomendasikan untuk mengaktifkan fitur tersebut untuk mem-bypass limitasi jumlah karakter dari variable MAX_PATH.
+setelah selasai kita uji coba menjalakan program python yang ada di start menu windows kita
